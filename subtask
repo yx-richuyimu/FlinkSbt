@@ -1,0 +1,5 @@
+socket 1-> flat map 4-> keyby 4
+1个task中有多个subtask
+3个task 9(1 + 4 + 4)个subtask
+通过页面可以直接看出有多少个task
+发生task 并行度变化,keyby类似的算子
